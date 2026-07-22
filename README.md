@@ -23,48 +23,73 @@ I'm a Data Scientist passionate about transforming data into actionable insights
 
 My portfolio showcases end-to-end Data Science projects that combine Machine Learning, software engineering best practices and professional documentation.
 
-Currently, I'm expanding my skills in Machine Learning Engineering while building production-oriented solutions using Python, SQL, FastAPI, Docker and AWS.
+Currently, I'm expanding my expertise in Machine Learning Engineering while building production-oriented solutions using Python, SQL, FastAPI, Docker and AWS.
 
 ---
 
-### 🛠 Tech Stack
+<h3>🛠 Tech Stack</h3>
 
-**Programming Languages & Tools**  
+**Programming**
+
 Python • SQL • Git • GitHub
 
-**Machine Learning**  
+**Machine Learning**
+
 Regression • Classification • Clustering • Time Series Forecasting
 
-**Data Analysis**  
+**Data Analysis**
+
 EDA • Data Cleaning • Feature Engineering • Pandas • NumPy
 
-**Data Engineering**  
+**Data Engineering**
+
 ETL / ELT • Data Pipelines • Process Automation
 
-**Databases**  
+**Databases**
+
 SQLite • MySQL • SQL Server
 
-**Visualization**  
+**Visualization**
+
 Power BI • Looker Studio • Matplotlib • Seaborn
 
 ---
 
 <h3>🚀 Featured Projects</h3>
 
-**[Credit Card Fraud Detection System](https://github.com/mauriciocasanovas/credit-card-fraud-detection-system)**  
+**[Credit Card Fraud Detection System](https://github.com/mauriciocasanovas/credit-card-fraud-detection-system)**
+
 Production-ready fraud detection using Random Forest, FastAPI, Docker and AWS.
 
-**[Predictive Maintenance System](https://github.com/mauriciocasanovas/predictive-maintenance-system)**  
+**[Predictive Maintenance System](https://github.com/mauriciocasanovas/predictive-maintenance-system)**
+
 Predictive maintenance using Machine Learning and interactive Power BI dashboards.
 
-**[Sales Forecasting System](https://github.com/mauriciocasanovas/sales-forecasting-system)**  
+**[Sales Forecasting System](https://github.com/mauriciocasanovas/sales-forecasting-system)**
+
 Time series forecasting using Holt-Winters, SQLite and Power BI.
 
-**[Customer Segmentation System](https://github.com/mauriciocasanovas/customer-segmentation-system)**  
+**[Customer Segmentation System](https://github.com/mauriciocasanovas/customer-segmentation-system)**
+
 Customer segmentation using K-Means clustering, SQLite and automated business reporting.
 
-**[Healthcare Patient Monitoring System](https://github.com/mauriciocasanovas/healthcare-patient-monitoring-system)**  
-Healthcare analytics using feature engineering, Linear Regression models and Power BI.
+**[Healthcare Patient Monitoring System](https://github.com/mauriciocasanovas/healthcare-patient-monitoring-system)**
+
+Healthcare analytics using feature engineering, regression modeling and Power BI.
+
+---
+
+<h3>🎓 Education</h3>
+
+- **B.Sc. in Geophysics** | UNLP, Buenos Aires, Argentina | 2016
+- **Diploma in Programming & Databases** | UTN, Buenos Aires, Argentina | 2020
+
+<h3>📜 Certifications</h3>
+
+- Artificial Intelligence & Machine Learning | Conforcat | 2024
+- Looker Studio & Power BI | Udemy | 2024
+- Big Data, Machine Learning & Google Cloud | Udemy | 2022
+- Data Analyst | LinkedIn Learning | 2022
 
 ---
 
