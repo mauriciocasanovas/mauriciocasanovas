@@ -27,19 +27,25 @@ Currently, I'm expanding my skills in Machine Learning Engineering while buildin
 
 ---
 
-<h3>🛠 Tech Stack</h3>
+### 🛠 Tech Stack
 
-**Programming Languages & Tools:** Python • SQL • Git • GitHub
+**Programming Languages & Tools**  
+Python • SQL • Git • GitHub
 
-**Machine Learning:** Regression • Classification • Clustering • Time Series Forecasting
+**Machine Learning**  
+Regression • Classification • Clustering • Time Series Forecasting
 
-**Data Analysis:** Exploratory Data Analysis (EDA) • Data Cleaning • Feature Engineering • Pandas • NumPy
+**Data Analysis**  
+EDA • Data Cleaning • Feature Engineering • Pandas • NumPy
 
-**Data Engineering:** ETL / ELT • Data Pipelines • Process Automation
+**Data Engineering**  
+ETL / ELT • Data Pipelines • Process Automation
 
-**Databases:** SQLite • MySQL • SQL Server
+**Databases**  
+SQLite • MySQL • SQL Server
 
-**Visualization:** Power BI • Looker Studio • Matplotlib • Seaborn
+**Visualization**  
+Power BI • Looker Studio • Matplotlib • Seaborn
 
 ---
 
@@ -59,28 +65,6 @@ Customer segmentation using K-Means clustering, SQLite and automated business re
 
 **[Healthcare Patient Monitoring System](https://github.com/mauriciocasanovas/healthcare-patient-monitoring-system)**  
 Healthcare analytics using feature engineering, Linear Regression models and Power BI.
-
----
-
-<h3>🛠 Tech Stack</h3>
-
-**Programming**
-> Python • SQL • Git • GitHub
-
-**Machine Learning**
-> Regression • Classification • Clustering • Time Series Forecasting
-
-**Data Analysis**
-> EDA • Data Cleaning • Feature Engineering • Pandas • NumPy
-
-**Data Engineering**
-> ETL / ELT • Data Pipelines • Process Automation
-
-**Databases**
-> SQLite • MySQL • SQL Server
-
-**Visualization**
-> Power BI • Looker Studio • Matplotlib • Seaborn
 
 ---
 
