@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Mauricio Casanovas 👋</h1>
+<h2 align="center">Hi, I'm Mauricio Casanovas 👋</h2>
 
 <p align="center">
 Data Scientist | Machine Learning | Data Analytics | Data Engineering
