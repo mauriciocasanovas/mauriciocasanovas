@@ -75,6 +75,6 @@ Healthcare analytics using feature engineering, Linear Regression models and Pow
 
 <h3>📫 Connect with Me</h3>
 
-- **LinkedIn:** [linkedin.com/in/mauriciocasanovas](https://linkedin.com/in/mauriciocasanovas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mauricio%20Casanovas-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriciocasanovas)
 
-💼 **Open to Data Science, Machine Learning and Data Analytics opportunities.**
+> 💼 Open to Data Science, Machine Learning and Data Analytics opportunities.
