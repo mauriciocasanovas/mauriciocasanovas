@@ -62,19 +62,30 @@ Healthcare analytics using feature engineering, Linear Regression models and Pow
 
 ---
 
-<h3>🎓 Education & Certifications</h3>
+<h3>🛠 Tech Stack</h3>
 
-- Artificial Intelligence & Machine Learning | Conforcat | 2024
-- Looker Studio & Power BI | Udemy | 2024
-- Big Data, Machine Learning & Google Cloud | Udemy | 2022
-- Data Analyst | LinkedIn Learning | 2022
-- Diploma in Programming & Databases | UTN, Buenos Aires | 2020
-- B.Sc. in Geophysics | UNLP, Buenos Aires | 2016
+**Programming**
+> Python • SQL • Git • GitHub
+
+**Machine Learning**
+> Regression • Classification • Clustering • Time Series Forecasting
+
+**Data Analysis**
+> EDA • Data Cleaning • Feature Engineering • Pandas • NumPy
+
+**Data Engineering**
+> ETL / ELT • Data Pipelines • Process Automation
+
+**Databases**
+> SQLite • MySQL • SQL Server
+
+**Visualization**
+> Power BI • Looker Studio • Matplotlib • Seaborn
 
 ---
 
 <h3>📫 Connect with Me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mauriciocasanovas)
+https://linkedin.com/in/mauriciocasanovas
 
-💼 **Open to Data Science, Machine Learning and Data Analytics opportunities.**
+Open to Data Science, Machine Learning and Data Analytics opportunities.
