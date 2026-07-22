@@ -95,6 +95,6 @@ Healthcare analytics using feature engineering, regression modeling and Power BI
 
 <h3>📫 Connect with Me</h3>
 
-https://linkedin.com/in/mauriciocasanovas
+[linkedin.com/in/mauriciocasanovas](https://linkedin.com/in/mauriciocasanovas)
 
 Open to Data Science, Machine Learning and Data Analytics opportunities.
